@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Just starting out in the GitHub Community.
+
+Planning to reach a new place in my career.
